@@ -1,0 +1,6 @@
+{
+  "name": "Prashna",
+  "description": "An anonymous audio conversation marketplace focused on deep philosophy, self-inquiry, and socratic questioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
